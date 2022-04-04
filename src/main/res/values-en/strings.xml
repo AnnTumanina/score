@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Score</string>
+    <string name="scoreHamsters">0</string>
+    <string name="drop">Drop</string>
+    <string name="scoreMools">0</string>
+    <string name="mools">Mools</string>
+    <string name="hamsters">Hamsters</string>
+</resources>
